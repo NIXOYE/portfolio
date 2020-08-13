@@ -45,7 +45,7 @@ Portfolio website for a Video Director https://fooxea.com
 <p align="center">
   <img src="https://github.com/nixoye/portfolio/blob/master/files/arkanim.gif" width="50%" height="50%">
  
-  https://github.com/thearkadia/The_Ark/blob/master/README.md
+ <p align="center">  https://github.com/thearkadia/The_Ark/blob/master/README.md
   </p>
  
 
