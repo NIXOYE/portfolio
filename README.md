@@ -34,7 +34,7 @@ App mockups to simplify Democracy and Capitalism for the Ark, iPhone, and Androi
 
 # Web Design
 
-Portfolio website for a Video Director https://fooxea.com
+<p align="center"> Portfolio website for a Video Director https://fooxea.com </p>
 <p align="center">
 <img src="https://github.com/nixoye/portfolio/blob/master/files/fooxea%20website.jpg" width="75%" height="10%">
 
