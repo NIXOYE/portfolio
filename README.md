@@ -28,7 +28,7 @@ App mockups to simplify Democracy and Capitalism for the Ark, iPhone, and Androi
 * An application for journalists to publish articles on a peer to peer network making it very hard to be censored.
 
 <p align="center">
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Supporting%403x.png" width="25%" height="10%">
+  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Supporting%403x.png" width="25%" height="10%">
       <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/News%403x.png" width="25%" height="10%">
      </p>
 
@@ -41,9 +41,9 @@ Portfolio website for a Video Director https://fooxea.com
 
 
  # 3D Modeling, Animation, and After Effects Tracking
+
 <p align="center">
-  
- <img src="https://github.com/nixoye/portfolio/blob/master/files/arkanim.gif" width="50%" height="50%">
+  <img src="https://github.com/nixoye/portfolio/blob/master/files/arkanim.gif" width="50%" height="50%">
  
   https://github.com/thearkadia/The_Ark/blob/master/README.md
   </p>
