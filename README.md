@@ -18,10 +18,6 @@ App mockups to simplify Democracy and Capitalism for the Ark, iPhone, and Androi
 * An open source application to simplify the process of boycotting companies by easily seeing what products the company owns or has a stake in and be able to find alternatives to the product\service they are looking to purchase. 
 
 <p align="center">
-  Mockup of a shopping section in Apple Music to allow artists to sell merchandise directly to fans.</p>
-<p align="center"><img src="https://github.com/nixoye/portfolio/blob/master/files/applemusic-shop-mockup.gif" width="25%" height="25%"> </p>
-
-<p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Budget%403x.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Boycott%20List%403x.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Nestle%20Alternatives%403x.png" width="25%" height="10%">     </p>
