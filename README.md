@@ -6,7 +6,7 @@
  
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/arkscreens-final-whitebg.gif" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/ark-back.jpg" width="50%" height="50%"></a>
 <p align="center"> https://thearkadia.webflow.io </p>
-for more information and source code visit: https://github.com/thearkadia/The_Ark/
+<p align="center"> for more information and source code visit: https://github.com/thearkadia/The_Ark/ </p>
 
 # UI/UX Design
 App mockups to simplify Democracy and Capitalism for the Ark, iPhone, and Android devices.
